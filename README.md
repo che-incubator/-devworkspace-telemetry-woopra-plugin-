@@ -108,4 +108,4 @@ docker run -w /root/app -v $(pwd):/root/app -v \
 ```
 ## Trademark
 
-"Che" is a trademark of the Eclipse Foundation
+"Che" is a trademark of the Eclipse Foundation.
